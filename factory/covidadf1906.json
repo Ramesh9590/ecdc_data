@@ -1,0 +1,9 @@
+{
+	"name": "covidadf1906",
+	"location": "uksouth",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "ee078f4c-1769-4c02-86fb-09ea61f29e8f",
+		"tenantId": "7ee024cc-6fcb-4b04-b487-1be43ccaaf04"
+	}
+}
